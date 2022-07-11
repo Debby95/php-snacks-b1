@@ -38,7 +38,6 @@ $basketMatch = [
     ],
 ];
 
-    echo "<h2></h2>"
 ?>
 
 <!DOCTYPE html>
